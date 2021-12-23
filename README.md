@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @databayes
 - 👀 I’m interested in data and reporting
-- 🌱 I’m currently learning dax, m, python, sql and R
+- 🌱 I’m currently working with mainly PowerBI, Excel and Paginated Reporting.  My main code is in M, DAX, python, sql and R
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me sue@suebayes.com
 
